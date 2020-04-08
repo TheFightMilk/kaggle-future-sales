@@ -1,0 +1,9 @@
+{
+    "path" : "D:/kaggle/future_sales",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
